@@ -1,4 +1,4 @@
-# Prebuilt Magma server
+# Prebuilt 1.16.5 Magma server
 ## This is not an official repo of Magma server! I just downloaded by myself and did some game config changes for quick server setup.
 
 You can get official Magma server installation files and docs at: https://magmafoundation.org/
